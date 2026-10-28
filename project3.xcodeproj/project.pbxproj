@@ -7,26 +7,26 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		494D0D3130582FE600DE6884 /* startingios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = startingios.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		494D0D3130582FE600DE6884 /* project3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = project3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		494D0D4330582FE700DE6884 /* Exceptions for "startingios" folder in "startingios" target */ = {
+		494D0D4330582FE700DE6884 /* Exceptions for "project3" folder in "project3" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 494D0D3030582FE600DE6884 /* startingios */;
+			target = 494D0D3030582FE600DE6884 /* project3 */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		494D0D3330582FE600DE6884 /* startingios */ = {
+		494D0D3330582FE600DE6884 /* project3 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				494D0D4330582FE700DE6884 /* Exceptions for "startingios" folder in "startingios" target */,
+				494D0D4330582FE700DE6884 /* Exceptions for "project3" folder in "project3" target */,
 			);
-			path = startingios;
+			path = project3;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -45,7 +45,7 @@
 		494D0D2830582FE600DE6884 = {
 			isa = PBXGroup;
 			children = (
-				494D0D3330582FE600DE6884 /* startingios */,
+				494D0D3330582FE600DE6884 /* project3 */,
 				494D0D3230582FE600DE6884 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 		494D0D3230582FE600DE6884 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				494D0D3130582FE600DE6884 /* startingios.app */,
+				494D0D3130582FE600DE6884 /* project3.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,9 +61,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		494D0D3030582FE600DE6884 /* startingios */ = {
+		494D0D3030582FE600DE6884 /* project3 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 494D0D4430582FE700DE6884 /* Build configuration list for PBXNativeTarget "startingios" */;
+			buildConfigurationList = 494D0D4430582FE700DE6884 /* Build configuration list for PBXNativeTarget "project3" */;
 			buildPhases = (
 				494D0D2D30582FE600DE6884 /* Sources */,
 				494D0D2E30582FE600DE6884 /* Frameworks */,
@@ -74,13 +74,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				494D0D3330582FE600DE6884 /* startingios */,
+				494D0D3330582FE600DE6884 /* project3 */,
 			);
-			name = startingios;
+			name = project3;
 			packageProductDependencies = (
 			);
 			productName = startingios;
-			productReference = 494D0D3130582FE600DE6884 /* startingios.app */;
+			productReference = 494D0D3130582FE600DE6884 /* project3.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -98,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 494D0D2C30582FE600DE6884 /* Build configuration list for PBXProject "startingios" */;
+			buildConfigurationList = 494D0D2C30582FE600DE6884 /* Build configuration list for PBXProject "project3" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				494D0D3030582FE600DE6884 /* startingios */,
+				494D0D3030582FE600DE6884 /* project3 */,
 			);
 		};
 /* End PBXProject section */
@@ -146,7 +146,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = startingios/Info.plist;
+				INFOPLIST_FILE = project3/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -177,7 +177,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = startingios/Info.plist;
+				INFOPLIST_FILE = project3/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -322,7 +322,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		494D0D2C30582FE600DE6884 /* Build configuration list for PBXProject "startingios" */ = {
+		494D0D2C30582FE600DE6884 /* Build configuration list for PBXProject "project3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				494D0D4730582FE700DE6884 /* Debug */,
@@ -331,7 +331,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		494D0D4430582FE700DE6884 /* Build configuration list for PBXNativeTarget "startingios" */ = {
+		494D0D4430582FE700DE6884 /* Build configuration list for PBXNativeTarget "project3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				494D0D4530582FE700DE6884 /* Debug */,
